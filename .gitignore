@@ -1,0 +1,17 @@
+# Compiled files
+*.o
+*.out
+*.exe
+
+# Build binary
+filter
+
+# Mac/Windows/Linux junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+*.swp
+*.log
+.vscode/
+.idea/
